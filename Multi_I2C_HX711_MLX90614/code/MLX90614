@@ -1,5 +1,5 @@
 /***************************************************
-  This is a library example for the MLX90614 Temp Sensor
+  This is an library example for the MLX90614 Temp Sensor
 
   These sensors use I2C to communicate, 2 pins are required to
   interface
